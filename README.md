@@ -3,7 +3,8 @@
 <h3> 🤓: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Garduado em ENGENHARIA ELÉTRICA na <a href="https://www.usjt.br/">Universidade São Judas Tadeu</a>.
-- 🕰️ &nbsp; Cursando HTML5 e CSS3
+- :computer: &nbsp; Desenvolvedor HTML5 e CSS3
+- :alarm_clock: &nbsp; Cursando Javascript
 
 <h3> :rocket: &nbsp;Minhas Habilidades</h3>
 
