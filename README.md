@@ -6,7 +6,7 @@
 - :computer: &nbsp; Desenvolvedor HTML5 e CSS3
 - :alarm_clock: &nbsp; Cursando Javascript
   
-  Acesse meu <a href="https://biels166.github.io/curriculo/" target=blank>Currículo.</a>  
+- :point_right: &nbsp; Acesse meu <a href="https://biels166.github.io/curriculo/" target="blank">Currículo.</a>  
 
 <h3> :rocket: &nbsp;Minhas Habilidades</h3>
 
