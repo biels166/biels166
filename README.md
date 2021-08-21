@@ -2,11 +2,11 @@
 
 <h3> 🤓: &nbsp;Sobre mim </h3>
 
-- 🎓 &nbsp; Garduado em ENGENHARIA ELÉTRICA na <a href="https://www.usjt.br/" target="_blank">Universidade São Judas Tadeu</a>.
+- 🎓 &nbsp; Garduado em ENGENHARIA ELÉTRICA na <a href="https://www.usjt.br/" target="blank">Universidade São Judas Tadeu</a>.
 - :computer: &nbsp; Desenvolvedor HTML5 e CSS3
 - :alarm_clock: &nbsp; Cursando Javascript
   
-- :point_right: &nbsp; Acesse meu <a href="https://biels166.github.io/curriculo/" target="_blank">Currículo.</a>  
+- :point_right: &nbsp; Acesse meu <a href="https://biels166.github.io/curriculo/" target="blank">Currículo.</a>  
 
 <h3> :rocket: &nbsp;Minhas Habilidades</h3>
 
