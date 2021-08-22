@@ -2,11 +2,17 @@
 
 <h3> 🤓: &nbsp;Sobre mim </h3>
 
+ <div style="diplay: inline_block">
+      <a href="https://github.com/biels166">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biels166&theme=dark&show_icons=true" /></a>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biels166&layout=compact&langs_count=7&theme=dark"/>
+ </div>
+
 - 🎓 &nbsp; Garduado em ENGENHARIA ELÉTRICA na <a href="https://www.usjt.br/" target="blank">Universidade São Judas Tadeu</a>.
 - :computer: &nbsp; Desenvolvedor HTML5 e CSS3
 - :alarm_clock: &nbsp; Cursando Javascript
   
-- :point_right: &nbsp; Acesse meu <a href="https://biels166.github.io/curriculo/" target="blank">Currículo.</a>  
+- :point_right: &nbsp; Acesse meu <a href="https://biels166.github.io/curriculo/" target="_blank">Currículo.</a>  
 
 <h3> :rocket: &nbsp;Minhas Habilidades</h3>
 
@@ -41,22 +47,10 @@
   ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   ![Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
   ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
-**Status**
-<br/>
-
-<a href="https://github.com/biels166">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biels166&theme=midnight-purple&show_icons=true" />
-</a>
-
-[![biels166](https://github-readme-stats.vercel.app/api/top-langs/?username=biels166&hide=html&layout=compact&theme=midnight-purple)](https://github.com/biels166)
-
-<br/>
-
-
+ 
 <h3> :world_map: &nbsp;Onde me encontrar: </h3> 
-
+  
 [![Linkedin:](https://img.shields.io/badge/-GABRIEL-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bielsantos/)](https://www.linkedin.com/in/bielsantos/)
-[![GitHub GuiMonLopes]( https://img.shields.io/github/followers/biels166?label=follow&style=social)](https://github.com/biels166)
+[![GitHub Biels166]( https://img.shields.io/github/followers/biels166?label=follow&style=social)](https://github.com/biels166)
 
  
