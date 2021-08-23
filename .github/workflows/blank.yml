@@ -14,7 +14,6 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-        background_color: black;
           github_user_name: biels166
           svg_out_path: dist/github-contribution-grid-snake.svg
 
