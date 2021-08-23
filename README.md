@@ -1,12 +1,14 @@
 <h1>Gabriel Santana Ávila dos Santos<h1>
 
-<h3> 🤓: &nbsp;Sobre mim </h3>
-
  <div style="diplay: inline_block">
       <a href="https://github.com/biels166">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biels166&theme=dark&show_icons=true" /></a>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biels166&layout=compact&langs_count=7&theme=dark"/>
+      <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=biels166&theme=dark&show_icons=true" /></a>
+      <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biels166&layout=compact&langs_count=7&theme=dark"/>
  </div>
+ 
+ ![Snake animation](https://github.com/biels166/biels166/blob/output/github-contribution-grid-snake.svg)
+ 
+ <h3> 🤓: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Garduado em ENGENHARIA ELÉTRICA na <a href="https://www.usjt.br/" target="blank">Universidade São Judas Tadeu</a>.
 - :computer: &nbsp; Desenvolvedor HTML5 e CSS3
