@@ -2,8 +2,8 @@
 
  <div align:"center";>
       <a href="https://github.com/biels166">
-      <img height="190em"  src="https://github-readme-stats.vercel.app/api?username=biels166&theme=dark&show_icons=true" /></a>
-      <img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biels166&layout=compact&langs_count=7&theme=dark"/>
+      <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=biels166&theme=dark&show_icons=true" /></a>
+      <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biels166&layout=compact&langs_count=7&theme=dark"/>
  </div>
  
  ![Snake animation](https://github.com/biels166/biels166/blob/output/github-contribution-grid-snake.svg)
