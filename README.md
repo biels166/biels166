@@ -4,20 +4,18 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gabriel Santana</title>
-    <link rel="stylesheet" href="_css/estilo.css">
+    <link rel="stylesheet" href="estilo_readme.css">
 </head>
 <hgroup>
+    
 <h1>Gabriel Santana Ávila dos Santos<h1>
 
- <table id="me">
- <tr><td>
  <a href="https://github.com/biels166">
- <img width="1000em" src="https://github-readme-stats.vercel.app/api?username=biels166&theme=dark&show_icons=true" /></a><br>
- <img width="1000em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biels166&layout=compact&langs_count=7&theme=dark"/>
- </td>
-
- <td width="500em" height="100em"> 
+ <img width="500em" src="https://github-readme-stats.vercel.app/api?username=biels166&theme=dark&show_icons=true" /></a>
+ <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biels166&layout=compact&langs_count=7&theme=dark"/>
+      
+![Snake animation](https://github.com/biels166/biels166/blob/output/github-contribution-grid-snake.svg)
+  
   <h3>🤓: &nbsp;Sobre mim</h3>
    <ul>
      <li>🎓 &nbsp; Garduado em ENGENHARIA ELÉTRICA na <a href="https://www.usjt.br/" target="_blank">Universidade São Judas Tadeu</a>.</li>
@@ -26,13 +24,8 @@
      <li>:alarm_clock: &nbsp; Estudando e Praticando Javascript.</li>
      <li>:alarm_clock: &nbsp; Estudando e Praticando PL/SQL.</li>
      <li>:point_right: &nbsp; Acesse meu <a href="https://biels166.github.io/curriculo/" target="_blank">Currículo.</a></li>  
-    </small></ul>
- </td>
- </tr>
- </table>
+   </ul>
 
-  ![Snake animation](https://github.com/biels166/biels166/blob/output/github-contribution-grid-snake.svg)
- 
 <h3> :rocket: &nbsp;Minhas Habilidades</h3>
 
 **Aplicações & Dados**
