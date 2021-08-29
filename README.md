@@ -1,23 +1,38 @@
+<!DOCTYPE: html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gabriel Santana</title>
+    <link rel="stylesheet" href="_css/estilo.css">
+</head>
+<hgroup>
 <h1>Gabriel Santana Ávila dos Santos<h1>
 
- <div align:"center";>
-      <a href="https://github.com/biels166">
-      <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=biels166&theme=dark&show_icons=true" /></a>
-      <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biels166&layout=compact&langs_count=7&theme=dark"/>
- </div>
- 
- ![Snake animation](https://github.com/biels166/biels166/blob/output/github-contribution-grid-snake.svg)
- 
- <h3> 🤓: &nbsp;Sobre mim </h3>
+ <table id="me">
+ <tr><td>
+ <a href="https://github.com/biels166">
+ <img width="1000em" src="https://github-readme-stats.vercel.app/api?username=biels166&theme=dark&show_icons=true" /></a><br>
+ <img width="1000em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biels166&layout=compact&langs_count=7&theme=dark"/>
+ </td>
 
-- 🎓 &nbsp; Garduado em ENGENHARIA ELÉTRICA na <a href="https://www.usjt.br/" target="blank">Universidade São Judas Tadeu</a>.
-- :computer: &nbsp; Desenvolvedor HTML5 e CSS3
-- 🖥️: &nbsp; Desenvolvedor Shell Script
-- :alarm_clock: &nbsp; Estudando e Praticando Javascript
-- :alarm_clock: &nbsp; Estudando e Praticando PL/SQL
-  
-- :point_right: &nbsp; Acesse meu <a href="https://biels166.github.io/curriculo/" target="_blank">Currículo.</a>  
+ <td width="500em" height="100em"> 
+  <h3>🤓: &nbsp;Sobre mim</h3>
+   <ul>
+     <li>🎓 &nbsp; Garduado em ENGENHARIA ELÉTRICA na <a href="https://www.usjt.br/" target="_blank">Universidade São Judas Tadeu</a>.</li>
+     <li>:computer: &nbsp; Desenvolvedor HTML5 e CSS3.</li>
+     <li>🖥️: &nbsp; Desenvolvedor Shell Script.</li>
+     <li>:alarm_clock: &nbsp; Estudando e Praticando Javascript.</li>
+     <li>:alarm_clock: &nbsp; Estudando e Praticando PL/SQL.</li>
+     <li>:point_right: &nbsp; Acesse meu <a href="https://biels166.github.io/curriculo/" target="_blank">Currículo.</a></li>  
+    </small></ul>
+ </td>
+ </tr>
+ </table>
 
+  ![Snake animation](https://github.com/biels166/biels166/blob/output/github-contribution-grid-snake.svg)
+ 
 <h3> :rocket: &nbsp;Minhas Habilidades</h3>
 
 **Aplicações & Dados**
@@ -61,4 +76,5 @@
 [![Linkedin:](https://img.shields.io/badge/-GABRIEL-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bielsantos/)](https://www.linkedin.com/in/bielsantos/)
 [![GitHub Biels166]( https://img.shields.io/github/followers/biels166?label=follow&style=social)](https://github.com/biels166)
 
- 
+ </hgroup>
+</html>
