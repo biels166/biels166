@@ -12,7 +12,7 @@
 
 - 🎓 &nbsp; Garduado em ENGENHARIA ELÉTRICA na <a href="https://www.usjt.br/" target="blank">Universidade São Judas Tadeu</a>.
 - :computer: &nbsp; Desenvolvedor HTML5 e CSS3
-- :alarm_clock: &nbsp; Desenvolvedor Shell Script
+- 🖥️: &nbsp; Desenvolvedor Shell Script
 - :alarm_clock: &nbsp; Estudando e Praticando Javascript
 - :alarm_clock: &nbsp; Estudando e Praticando PL/SQL
   
