@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+table#me{
+ font-size: 10pt;
+ background-color: rgba(0, 0, 90, 0.5);
+}
