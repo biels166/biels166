@@ -20,7 +20,7 @@
    <ul>
      <li>🎓 &nbsp; Garduado em ENGENHARIA ELÉTRICA na <a href="https://www.usjt.br/" target="_blank">Universidade São Judas Tadeu</a>.</li>
      <li>:computer: &nbsp; Desenvolvedor HTML5 e CSS3.</li>
-     <li>🖥️: &nbsp; Desenvolvedor Shell Script.</li>
+     <li>🖥️ &nbsp; Desenvolvedor Shell Script.</li>
      <li>:alarm_clock: &nbsp; Estudando e Praticando Javascript.</li>
      <li>:alarm_clock: &nbsp; Estudando e Praticando PL/SQL.</li>
      <li>:point_right: &nbsp; Acesse meu <a href="https://biels166.github.io/curriculo/" target="_blank">Currículo.</a></li>  
@@ -34,13 +34,16 @@
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![SHELL](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=green)
-  
-**DevOps & Cloud**
+
+**SGDB**
+    
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+    
+**DevOps**
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-
+  
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
