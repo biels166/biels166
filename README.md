@@ -11,8 +11,8 @@
 <h1>Gabriel Santana Ávila dos Santos<h1>
 
  <a href="https://github.com/biels166">
- <img width="500em" src="https://github-readme-stats.vercel.app/api?username=biels166&theme=dark&show_icons=true" /></a>
- <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biels166&layout=compact&langs_count=7&theme=dark"/>
+ <img width="470em" src="https://github-readme-stats.vercel.app/api?username=biels166&theme=dark&show_icons=true" /></a>
+ <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biels166&layout=compact&langs_count=7&theme=dark"/>
       
 ![Snake animation](https://github.com/biels166/biels166/blob/output/github-contribution-grid-snake.svg)
   
