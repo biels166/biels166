@@ -22,8 +22,10 @@
      <li>:computer: &nbsp; Desenvolvedor HTML5 e CSS3.</li>
      <li>🖥️ &nbsp; Desenvolvedor Shell Script.</li>
      <li>:alarm_clock: &nbsp; Estudando e Praticando Javascript.</li>
-     <li>:alarm_clock: &nbsp; Estudando e Praticando PL/SQL.</li>
+     <li>:alarm_clock: &nbsp; Estudando e Praticando SQL.</li>
        <ul>
+           <li>Ansi SQL</li>
+           <li>Oracle PL/SQL</li>
        </ul>
      <li>:point_right: &nbsp; Acesse meu <a href="https://biels166.github.io/curriculo/" target="_blank">Currículo.</a></li>  
    </ul>
