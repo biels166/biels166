@@ -23,6 +23,8 @@
      <li>🖥️ &nbsp; Desenvolvedor Shell Script.</li>
      <li>:alarm_clock: &nbsp; Estudando e Praticando Javascript.</li>
      <li>:alarm_clock: &nbsp; Estudando e Praticando PL/SQL.</li>
+       <ul>
+       </ul>
      <li>:point_right: &nbsp; Acesse meu <a href="https://biels166.github.io/curriculo/" target="_blank">Currículo.</a></li>  
    </ul>
 
