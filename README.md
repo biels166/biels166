@@ -21,7 +21,7 @@
      <li>🎓 &nbsp; Garduado em ENGENHARIA ELÉTRICA na <a href="https://www.usjt.br/" target="_blank">Universidade São Judas Tadeu</a>.</li>
      <li>:computer: &nbsp; Desenvolvedor HTML5 e CSS3.</li>
      <li>🖥️ &nbsp; Desenvolvedor Shell Script.</li>
-     <li>:alarm_clock: &nbsp; Estudando e Praticando Javascript.</li>
+     <li>🖥️ &nbsp; Desenvolvedor Javascript.</li>
      <li>:alarm_clock: &nbsp; Estudando e Praticando SQL.</li>
        <ul>
            <li>Ansi SQL</li>
